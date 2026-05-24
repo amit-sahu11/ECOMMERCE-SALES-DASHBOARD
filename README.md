@@ -15,7 +15,7 @@ The dashboard helps businesses track important KPIs such as:
 
 > Add your dashboard screenshot inside the `screenshots` folder and update the image path below.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](ECOMMERCE_SALES_DASHBOARD.png)
 
 ---
 
@@ -72,8 +72,7 @@ The project uses ecommerce sales datasets containing:
 ├── Ecommerce Sales Dashboard.pbix
 ├── Orders.csv
 ├── Details.csv
-├── screenshots/
-│   └── dashboard.png
+│── ECOMMERCE_SALES_DASHBOARD.png
 └── README.md
 ```
 
@@ -110,5 +109,5 @@ Amit
 ---
 
 ## Connect With Me
-- GitHub: Add your GitHub profile link
-- LinkedIn: Add your LinkedIn profile link
+- GitHub: https://github.com/amit-sahu11
+- LinkedIn: https://www.linkedin.com/in/amitsahu11/
