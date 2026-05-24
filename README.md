@@ -13,8 +13,6 @@ The dashboard helps businesses track important KPIs such as:
 
 ## Dashboard Preview
 
-> Add your dashboard screenshot inside the `screenshots` folder and update the image path below.
-
 ![Dashboard Screenshot](ECOMMERCE_SALES_DASHBOARD.png)
 
 ---
@@ -104,7 +102,7 @@ The project uses ecommerce sales datasets containing:
 ---
 
 ## Author
-Amit
+Amit Kumar Sahu
 
 ---
 
